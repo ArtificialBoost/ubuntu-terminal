@@ -5,6 +5,10 @@ An about me page, designed as the ubuntu terminal
 It was originally created for my personal about me page, however have decided to create a different one.
 The implementation strives to be simple and free of unnecessary code.
 
+## Images
+![screenshot](https://i.ibb.co/yBZPws7/Capture.png)
+
+
 ## Goals
 
 - An easy way to create a simple, secure about me website
@@ -24,14 +28,13 @@ The implementation strives to be simple and free of unnecessary code.
 
 
 ## Dependencies
-There are no external dependencies :)
+There are no external dependencies 😊
 
 
 ## Credits
 
-- DavidAnson(https://github.com/DavidAnson) ReadME.md inspiration
-
+- [DavidAnson](https://github.com/DavidAnson) Inspiration for the Read Me
 ## License
 
-[MIT](LICENSE)
+This project is currently under the [MIT](LICENSE) License
 
