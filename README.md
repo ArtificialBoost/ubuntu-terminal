@@ -1,7 +1,7 @@
 # ubuntu-terminal
 An about me page, designed as the ubuntu terminal
 
-`ubuntu-terminal` is a simple yet elegant web page for a static about me page.
+`ubuntu-terminal` is a simple yet elegant about me page for a linux lovers!
 It was originally created for my personal about me page, however have decided to create a different one.
 The implementation strives to be simple and free of unnecessary code.
 
