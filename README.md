@@ -6,7 +6,7 @@ It was originally created for my personal about me page, however have decided to
 The implementation strives to be simple and free of unnecessary code.
 
 ## Images
-![screenshot](https://i.ibb.co/yBZPws7/Capture.png)
+![screenshot](https://i.ibb.co/4494Fk3/Capture.png)
 
 
 ## Goals
